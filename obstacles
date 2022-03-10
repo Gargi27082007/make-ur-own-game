@@ -1,0 +1,12 @@
+obstacles class(){
+
+    constructor(){
+  var obstacles = createSprite(500,600,20,20);
+    }
+    function spawn obstacles(){
+        if(frameCount % 50
+        spawn obstacles
+        
+        )
+    }
+}
